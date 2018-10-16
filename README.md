@@ -4,7 +4,7 @@ A preliminary proof-of-concept for a React-based HTML tree structure builder. Pr
 
 ## Example / Usage
 
-See the example at [https://craigmc.info/react-family-tree.html](https://craigmc.info/react-family-tree.html)
+See the example at [https://craigmc.info/react-family-tree](https://craigmc.info/react-family-tree)
 
 ## Current Features:
 
